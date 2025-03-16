@@ -1,6 +1,9 @@
 # HX_HOLSTER
 Simple holster script written fully with TypeScript. Made this because I saw people trying to sell the exact same thing with sounds for like $30 AUD.
 
+Dependencies: 
+1. [ox_inventory](https://github.com/overextended/ox_inventory)
+
 ## Installation
 ### Release:
 1. Download release
@@ -9,3 +12,5 @@ Simple holster script written fully with TypeScript. Made this because I saw peo
 4. `ensure hx_holster` in your server.cfg
 5. Your done!
 ### Source code: Dont download source code unless you know what you're doing
+
+https://github.com/Haxalott/hx_holster
